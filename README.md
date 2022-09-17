@@ -2,9 +2,9 @@
 
 Industry-specific intelligent fire management system
  
- </a>
+ </p>
  Team ID : PNT2022TMID29910
- </a>
+ </p>
  IBM ID : IBM-Project-31900-1660206003
  Team Size : 4
   *Team Leader : PRABU A
