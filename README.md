@@ -1,7 +1,7 @@
 # IBM-Project-31900-1660206003
 <p align="center">
   <a href="https://github.com/IBM-EPBL/IBM-Project-31900-1660206003">
-    <img src="https://forthebadge.com/images/badges/gluten-.svg">
+    <img src="https://forthebadge.com/images/badges/gluten.svg">
 
   </a>
 </p>
