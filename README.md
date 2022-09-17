@@ -6,7 +6,7 @@ Industry Specific Intelligent Fire Management System
  </p>
  IBM ID : IBM-Project-31900-1660206003</p>
  Team Size : 4 </p>
-    *Team Leader : PRABU A </p>
-    *Team member : SANTHOSH V </p>
-    *Team member : SETHUPATHI N </p>
-    *Team member : VINOTH KUMAR C </p>
+   </t> *Team Leader : PRABU A </p>
+   </t> *Team member : SANTHOSH V </p>
+   </t> *Team member : SETHUPATHI N </p>
+   </t> *Team member : VINOTH KUMAR C </p>
