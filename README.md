@@ -1,5 +1,5 @@
 # IBM-Project-31900-1660206003
-<p align="center">
+</p>
 Industry Specific Intelligent Fire Management System
  </p>
  Team ID : PNT2022TMID29910
