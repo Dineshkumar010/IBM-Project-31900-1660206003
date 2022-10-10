@@ -16,16 +16,16 @@ Industry Specific Intelligent Fire Management System
  </p>
  IBM ID : IBM-Project-31900-1660206003</p>
  Team Size : 4 </p>
-   </t> *Team Leader : PRABU A </p>
-   </t> *Team member : SANTHOSH V </p>
-   </t> *Team member : SETHUPATHI N </p>
-   </t> *Team member : VINOTH KUMAR C </p>
 
 &emsp;
 
 
 ## <img src="https://user-images.githubusercontent.com/99788851/194715091-fd5a8ed2-641a-44e2-bb77-613e36c4ee00.png" alt="drawing" width="25"/> Team members
 
+   </t> *Team Leader : PRABU A </p>
+   </t> *Team member : SANTHOSH V </p>
+   </t> *Team member : SETHUPATHI N </p>
+   </t> *Team member : VINOTH KUMAR C </p>
 
 
 
